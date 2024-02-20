@@ -1,0 +1,19 @@
+Servidor:
+Um servidor é um computador ou software mais potente que um desktop comum. Ele é capaz de conter um ou mais processadores, além de bancos de memórias, portas de comunicação, diferentes softwares e sistemas de armazenamento de dados. 
+Referência: https://coodesh.com/blog/dicionario/o-que-e-um-servidor/#:~:text=Em%20uma%20explica%C3%A7%C3%A3o%20simples%2C%20um,sistemas%20de%20armazenamento%20de%20dados.
+
+Algoritmo:
+Um algoritmo é uma sequência de raciocínios, instruções ou operações para alcançar um objetivo, sendo necessário que os passos sejam finitos e operados sistematicamente. Um algoritmo, portanto, conta com a entrada (input) e saída (output) de informações mediadas pelas instruções.
+Referência: https://rockcontent.com/br/blog/algoritmo/
+
+Banco de Dados:
+Um banco de dados é uma coleção organizada de informações - ou dados - estruturadas, normalmente armazenadas eletronicamente em um sistema de computador. Um banco de dados é geralmente controlado por um sistema de gerenciamento de banco de dados (DBMS). Juntos, os dados e o DBMS, juntamente com os aplicativos associados a eles, são chamados de sistema de banco de dados, geralmente abreviados para apenas banco de dados
+Referência: https://www.oracle.com/br/database/what-is-database/
+
+Dados:
+É um dado é uma unidade básica de informação que é usada para representar um valor ou uma medida. 
+Referência: https://www.drtransformacao.digital/post/dados-em-inform%C3%A1tica
+
+Variável:
+Variável é o nome utilizado para definir um ou mais valores que são manipulados pelos programas durante a sua operação. O nome “variável” é utilizado por ser um tipo de conteúdo que pode apresentar diferentes valores enquanto o sistema está em execução. Tudo dependerá do comando do usuário e o tipo de operação que é realizado.
+Referência: https://gaea.com.br/variaveis-programacao/
