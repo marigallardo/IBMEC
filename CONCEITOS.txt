@@ -17,3 +17,21 @@ Referência: https://www.drtransformacao.digital/post/dados-em-inform%C3%A1tica
 Variável:
 Variável é o nome utilizado para definir um ou mais valores que são manipulados pelos programas durante a sua operação. O nome “variável” é utilizado por ser um tipo de conteúdo que pode apresentar diferentes valores enquanto o sistema está em execução. Tudo dependerá do comando do usuário e o tipo de operação que é realizado.
 Referência: https://gaea.com.br/variaveis-programacao/
+
+Memória: A memória é a parte do computador que permitem o armazenamento de dados. A memória é dividida em dois tipos: Principal e Auxiliar. 
+Referência: https://www.guiafoca.org/guiaonline/iniciante/ch01s11.html
+
+Sistema de arquivos: Sistema de arquivo (file system) é um conjunto de regras e estruturas usadas para organizar, gerenciar e armazenar informações em HDDs, módulos SSDs, CDs, DVDs, pen drives e cartões de memória. São essas regras que determinam como os dados serão gravados no dispositivo de armazenamento.
+Existem muitos sistemas de arquivos, cada um projetado para suportar diferentes ambientes, sistemas operacionais, dispositivos, necessidades e plataformas.
+Referência: https://www.controle.net/faq/o-que-e-sistema-de-arquivos-file-system
+
+Rede Neural Artificial: Uma rede neural é um método de inteligência artificial que ensina computadores a processar dados de uma forma inspirada pelo cérebro humano.É um tipo de processo de machine learning, chamado aprendizado profundo, que usa nós ou neurônios interconectados em uma estrutura em camadas, semelhante ao cérebro humano. A rede neural cria um sistema adaptativo que os computadores usam para aprender com os erros e se aprimorar continuamente. As redes neurais artificiais tentam solucionar problemas complicados, como resumir documentos ou reconhecer rostos com grande precisão. 
+Referência: https://aws.amazon.com/pt/what-is/neural-network/
+
+Jurimetria: jurimetria é a estatística aplicada ao direito, em uma análise simples e direta. Tem sido utilizada em conjunto com softwares jurídicos num modelo de tentar prever resultados e oferecer (daí a questão estatística) probabilidades e valores envolvidos nestas análises.
+Referência: https://www.projuris.com.br/blog/jurimetria/
+
+Zero-rating: O Zero Rating é uma prática realizada pelas operadoras e algumas empresas de tecnologia que consiste em permitir o acesso de forma "gratuita", ou sem cobrar o tráfego de dados móveis a alguns serviços online, como apps de rede sociais e mensagens. 
+Referência: https://www.techtudo.com.br/noticias/2015/05/o-que-e-zero-rating-entenda-polemica-que-envolve-facebook-e-operadoras.ghtml
+
+
