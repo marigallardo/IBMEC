@@ -1,0 +1,16 @@
+1) DIFERENÇA ENTRE AS LINGUAGENS: 
+
+-JavaScript é uma linguagem de script de alto nível usada principalmente em desenvolvimento web para criar interatividade em páginas HTML.
+É uma linguagem de programação do lado do cliente, executada no navegador do usuário.
+-Python é uma linguagem de programação interpretada de alto nível, conhecida por sua sintaxe limpa e legibilidade.
+É frequentemente usada para desenvolvimento web, ciência de dados, automação, scripting e muito mais.
+-Java é uma linguagem de programação de propósito geral que é compilada e interpretada.
+Ela é fortemente tipada e orientada a objetos, com um forte foco em portabilidade e segurança.
+
+a) CÓDIGO EM JAVASCRIPT: var elementoResultado = document.getElementById("resultado"); 
+   CÓDIGO EM PHYTON: print("IBMEC")
+   CÓDIGO EM JAVA: public class MeuPrograma {
+    public static void main(String[] args) {
+        System.out.println("IBMEC");
+    }
+}
