@@ -14,3 +14,4 @@ a) CÓDIGO EM JAVASCRIPT: var elementoResultado = document.getElementById("resul
         System.out.println("IBMEC");
     }
 }
+
